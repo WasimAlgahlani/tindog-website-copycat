@@ -113,6 +113,9 @@ h3 {
   padding: 100px;
   text-align: center;
 }
+.pricing-1-2 p {
+  padding-bottom: 10px;
+}
 .pricing-column {
   padding: 3% 2%;
 }
