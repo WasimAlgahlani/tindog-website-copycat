@@ -135,7 +135,7 @@ h3 {
   padding-right: 25px;
 }
 .social {
-  padding-bottom: 5%;
+  padding-bottom: 5% 5% 2%;
 }
 
 @media (max-width: 1028px) {
